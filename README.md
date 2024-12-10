@@ -1,1 +1,1 @@
-An app that translates english to French and Spanish.
+An app that translates English to French and Spanish.
